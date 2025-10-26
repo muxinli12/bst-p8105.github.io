@@ -1,0 +1,21 @@
+---
+title: "My awesome website"
+output: 
+  html_document:
+    theme: cerulean
+---
+
+nake plots in data science
+```{r}
+library(tidyverse)
+```
+
+here is a dataframe
+```{r}
+plot_df=
+  tibble(x=rnorm(100,mean=1,sd=2),
+         y=1+2*x+rnorm(100))
+```
+
+the website muxin make 
+go back to the [homepage](index.html)

@@ -1,0 +1,9 @@
+---
+title: "My awesome website"
+output: 
+  html_document:
+    theme: cerulean
+---
+
+the website muxin make 
+go back to the [homepage](index.html)

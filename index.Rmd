@@ -1,0 +1,19 @@
+---
+title: "My awesome website"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+
+---
+
+# This is Jeff's awesome website
+
+![](https://media.giphy.com/media/drXGoW1iudhKw/giphy.gif)
+
+an example from [p8105](https://p8105.com/making_websites.html)
+learn more about the site [here](about.html)
+
+to show use RMD as normal, check out[this page](plots.html)
+
+here is a picture
